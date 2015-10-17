@@ -25,7 +25,7 @@ import aima.core.util.datastructure.XYLocation;
  * Main Class to read input and create an initial state.
  */
 
-public class MainClass {
+public class MyMainClass {
 
 	static char[][] map;
 	static int N = 0;
