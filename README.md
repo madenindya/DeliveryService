@@ -4,7 +4,7 @@ State Space Search simulation
 using **java aima** to solve problems
 
 Problem:
-Two courier need to deliver foods to customers
+Two couriers need to deliver foods to customers
 The input map contains river(obstacle) and one way
 Try to get find the shortest path
 
