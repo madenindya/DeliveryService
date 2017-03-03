@@ -1,9 +1,19 @@
 # WechselnDelivery
-State Space Search 
 
-Using java aima to solve problems
+State Space Search simulation
+using **java aima** to solve problems
 
-Two courier need to deliver food to customer
-The map contains river and one way
+Problem:
+Two courier need to deliver foods to customers
+The input map contains river(obstacle) and one way
+Try to get find the shortest path
 
-How to: java MainClass [strategy] [input_file] [output_file]
+### Running
+```
+java MainClass [strategy] [input_file] [output_file]
+```
+
+#### Strategies
+- `ids` IDS
+- `astar1` A\* (Manhattam Distance)
+- `astar2` A\* (Eucledian Distance)
